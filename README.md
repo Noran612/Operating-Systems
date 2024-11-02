@@ -1,2 +1,2 @@
 # Operating-Systems
-Created an operating system from scratch in CPP 
+Created a shell from scratch in CPP 
